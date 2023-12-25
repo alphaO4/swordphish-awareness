@@ -19,7 +19,7 @@ Swordphish can be used to train people identifying suspicious mails, and it can 
 Contents
 --------
 
-.. toctree::
+.. doctree::
   installation
   users-management
   templates
